@@ -1,4 +1,9 @@
 # Puppet Master
+JS Module to access Puppet Master Server For PDF Generation
+
+## Puppet Master Server
+https://github.com/Codebucket-Solutions/puppet-master
+
 
 ## Install
 
