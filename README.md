@@ -27,7 +27,7 @@ await puppetMaster.pdf({
       launchOptions: {   //Browser Launch Options
         args: ["--no-sandbox"],
       },
-      pageOptions: { waitUntil: "networ kidle0" }, // Page Options
+      pageOptions: { waitUntil: "networkidle0" }, // Page Options
       pdfOptions: { // PDF OPTIONS
         format: "A4",
         printBackground: true,
